@@ -1,0 +1,4 @@
+package graphy
+
+func main() {
+}
